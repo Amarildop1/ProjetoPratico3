@@ -6,12 +6,12 @@
 <h1>Nossos Produtos</h1>
 
 <?php
-    $linhas = ["Motor", "Suspensão", "Freio"];
+    $linhas = ["Motor", "Suspensão", "Freio", "Elétrica", "Carenagem"];
 
     foreach ($linhas as $linha) {
         echo "<h2>Peças de $linha</h2><div class='produtos'>";
         
-        $query = "SELECT * FROM produtos WHERE linha = '$linha' LIMIT 4";
+        $query = "SELECT * FROM produtos WHERE linha = '$linha' LIMIT 5";
         $resultado = mysqli_query($conexao, $query);
         
         while ($produto = mysqli_fetch_assoc($resultado)) {

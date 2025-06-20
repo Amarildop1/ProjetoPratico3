@@ -7,7 +7,7 @@
     </head>
     <body>
         <header>
-            <img src="imagens/logo.png" alt="Logo Motos e Motores" height="80">
+            <img src="imagens/logo.jpg" alt="Logo Motos e Motores" height="80">
             <nav>
                 <ul>
                     <li><a href="index.php"> Início </a></li>
