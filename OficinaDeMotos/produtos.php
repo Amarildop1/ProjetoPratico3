@@ -3,7 +3,7 @@
     include('db/conexao.php');
 ?>
 
-<h1>Nossos Produtos</h1>
+<h1 class="titulo-center">Nossos Produtos</h1>
 
 <?php
     $linhas = ["Motor", "Suspensão", "Freio", "Elétrica", "Carenagem"];

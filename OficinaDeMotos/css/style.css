@@ -172,3 +172,8 @@ input[type="submit"]:hover {
     padding-left: 20px;
     list-style-type: none;
 }
+
+.titulo-center{
+    text-align: center;
+}
+

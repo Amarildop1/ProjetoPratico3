@@ -1,6 +1,6 @@
 <?php include('includes/header.php'); ?>
 
-<h1>Serviços de Manutenção</h1>
+<h1 class="titulo-center">Serviços de Manutenção</h1>
 <section class="servicos-cards">
     <div class="card-servico">
         <img src="imagens/mecanica.png" alt="Mecânica em Geral">
