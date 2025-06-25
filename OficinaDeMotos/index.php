@@ -33,9 +33,14 @@
 <section class="slide">
     <h2>Galeria de Motos Antigas</h2>
     <div class="slide-container">
-        <img src="imagens/cruiser.png" alt="Moto Antiga 1">
-        <img src="imagens/racer.png" alt="Moto Antiga 2">
-        <img src="imagens/custom-yamaha.png" alt="Moto Antiga 3">
+        <img src="imagens/harley.jpg" alt="Moto Custom">
+        <img src="imagens/harley2.png" alt="Moto Custom">
+        <img src="imagens/dragstar2.jpg" alt="Moto Custom">
+        <img src="imagens/custom-yamaha.png" alt="Moto Custom">
+        <img src="imagens/shadow750.jpg" alt="Moto Custom">
+        <img src="imagens/dragstar.png" alt="Moto Custom">
+        <img src="imagens/chopper.png" alt="Moto Custom">
+        <img src="imagens/racer.png" alt="Moto Custom">
     </div>
 </section>
 
