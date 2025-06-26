@@ -1,22 +1,28 @@
-#### Prática 3
-
-<img src="./TelaInicial.jpeg" width="800" height="600">
-
+### Projeto Prático
 <br>
 
-<img src="./TelaProdutos.jpeg" width="800" height="600">
 
+#### Guia: Início
+<img src="./TelaInicial.jpeg" width="900" height="700">
 <br>
 
-<img src="./TelaServiços.jpeg" width="800" height="600">
 
+#### Guia: Produtos
+<img src="./TelaProdutos.jpeg" width="900" height="700">
 <br>
 
-<img src="./TelaContato.jpeg" width="800" height="600">
 
+#### Guia: Serviços
+<img src="./TelaServiços.jpeg" width="900" height="700">
 <br>
 
-<img src="./TelaFAQ.jpeg" width="800" height="600">
 
+#### Guia: Contato
+<img src="./TelaContato.jpeg" width="900" height="700">
+<br>
+
+
+#### Guia: FAQ
+<img src="./TelaFAQ.jpeg" width="900" height="700">
 <br>
 
