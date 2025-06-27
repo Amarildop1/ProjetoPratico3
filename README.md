@@ -2,8 +2,9 @@
 <br>
 
 
-#### Video Demo:
-[Clique aqui e assista a demonstração.](./Video-Demo.mp4)
+#### Veja a execução no Video:
+[![Assista à demonstração no YouTube](https://img.youtube.com/vi/GCxX02YbyEg/0.jpg)](https://youtu.be/GCxX02YbyEg)
+
 <br>
 <hr>
 
