@@ -2,6 +2,10 @@
 <br>
 
 
+[Clique aqui e assista a demonstração](./Video-Demo.mp4)
+<br>
+
+
 #### Guia: Início
 <img src="./TelaInicial.jpeg" width="900" height="700">
 <br>
