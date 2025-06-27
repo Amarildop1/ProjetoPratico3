@@ -3,9 +3,7 @@
 
 
 #### Veja a demonstração no Video:
-<a href="https://youtu.be/GCxX02YbyEg" target="_blank">
-  <img src="https://img.youtube.com/vi/GCxX02YbyEg/0.jpg" alt="Assista à demonstração no YouTube" style="width:100%; max-width:600px; position: relative;">
-</a>
+[![Assista à demonstração no YouTube](https://img.youtube.com/vi/GCxX02YbyEg/0.jpg)](https://youtu.be/GCxX02YbyEg)
 
 <br>
 <hr>
