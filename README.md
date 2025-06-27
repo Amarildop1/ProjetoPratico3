@@ -2,8 +2,10 @@
 <br>
 
 
-[Clique aqui e assista a demonstração](./Video-Demo.mp4)
+#### Video Demo:
+[Clique aqui e assista a demonstração.](./Video-Demo.mp4)
 <br>
+<hr>
 
 
 #### Guia: Início
